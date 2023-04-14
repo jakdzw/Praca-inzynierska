@@ -1,4 +1,4 @@
-# Praca-inzynierska
+# Techniczny projekt nowatorski
 
 Tworzenie strony internetowej dla klubu piłkarskiego
 
