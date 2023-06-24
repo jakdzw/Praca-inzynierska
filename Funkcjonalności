@@ -1,5 +1,5 @@
 Dodane zostały dwie funkcjonalności:
-- Formularz zgłoszeniowy: użytkownik może wpisać swoje imię, adres e-mail i wiadomość, a po kliknięciu przycisku "Wyślij" formularz zostanie wysłany na adres e-mail.
+- Formularz zgłoszeniowy: użytkownik może wpisać swoje imię, adres e-mail i wiadomość, a po kliknięciu przycisku "Wyślij" formularz zostanie wysłany na adres e-mail:
 Kod:
     <h3 style="color: #333;">Formularz zgłoszeniowy</h3>
         <p>Chcesz dołączyć do naszego klubu? Wyślij do nas wiadomość!
@@ -15,7 +15,7 @@ Kod:
         </form>
     </section>
 
-- Odnośniki do mediów społecznościowych.
+- Odnośniki do mediów społecznościowych:
 Kod:
  <section id="kontakt">
         <h2 style="color: #333;">Kontakt</h2>
