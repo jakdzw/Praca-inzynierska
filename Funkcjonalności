@@ -1,26 +1,10 @@
-Dodane zostały dwie funkcjonalności:
-- Formularz zgłoszeniowy: użytkownik może wpisać swoje imię, adres e-mail i wiadomość, a po kliknięciu przycisku "Wyślij" formularz zostanie wysłany na adres e-mail:
-Kod:
-    <h3 style="color: #333;">Formularz zgłoszeniowy</h3>
-        <p>Chcesz dołączyć do naszego klubu? Wyślij do nas wiadomość!
-        </p>
-        <form action="mailto:kontakt@klubxyz.com" method="post" enctype="text/plain">
-            <label for="name">Imię:</label>
-            <input type="text" id="name" name="name" required>
-            <label for="email">Twój e-mail:</label>
-            <input type="email" id="email" name="email" required>
-            <label for="message">Tekst:</label>
-            <textarea id="message" name="message" required></textarea>
-            <button type="submit">Wyślij!</button>
-        </form>
-    </section>
+Dodane zostały następujące funkcjonalności:
+- Slider - na stronie głównej wyświetlają się nowe "slidery"
 
-- Odnośniki do mediów społecznościowych:
-Kod:
- <section id="kontakt">
-        <h2 style="color: #333;">Kontakt</h2>
-        <p>Telefon: 111 222 333<br>
-            Instagram: <a href="https://www.instagram.com/...">Instagram</a><br>
-            Facebook: <a href="https://www.facebook.com/...">Facebook</a><br>
-            Tiktok: <a href="https://www.tiktok.com/@.">Tiktok</a>
-        </p>
+- Po najechaniu na dany produkt na stronie głównej wyświetla nam się "koszyk"
+
+- Po kliknięciu ikony użytkownika:
+- mamy możliwość wpisania danych logowania
+- w przypadku braku konta znajduje się odnośnik do stworzenia nowego użytkownika
+
+- Po kliknięciu ikony wyszukiwania, wyświetla nam się panel wyszukiwarki
